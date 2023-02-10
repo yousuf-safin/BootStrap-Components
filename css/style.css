@@ -1,0 +1,59 @@
+/*.icon{
+	font-size: 50px;
+	color:lime;
+}*/
+
+.img{
+	margin-bottom: 20px;
+}
+
+.navbar a img{
+  margin-bottom: 5px;
+  width: 75px;
+  
+
+}
+
+
+.navbar-expand-sm .navbar-nav a:hover{
+  color: green;
+}
+.box{
+	margin: 10px 0;
+	height: 140px;
+	background-color: green;
+	font-size: 40px;
+	color: white;
+	text-align: center;
+}
+.mh{
+	background-color: #ddd;
+	min-height: 400px;
+	margin-bottom: 30px;
+}
+.ts{
+	text-align: center;
+	font-size: 20px;
+
+}
+
+.tss{
+	font-size: 40px;
+}
+.mr{
+	margin-right: 10px;
+}
+.mt{
+	margin-top: 430px;
+}
+.mb{
+	margin-bottom: 40px;
+}
+.nts{
+	font-size: 18px;
+	font-weight: bold;
+}
+.h10{
+	width: 400px;
+	height: 800px;
+}
